@@ -1,0 +1,99 @@
+    /*
+.red {
+	color: red;
+}
+
+#rogue {
+	color: #FF00FF;
+	font-weight: bold;
+	font-family: cursive;
+}
+*/
+body {
+    background-image: http://www.edu-via.com.ar/wp-content/uploads/2012/10/camino1.jpg("camino1.jpg");
+    background-color: #cccccc;
+}
+
+img {
+	display: block;
+	height: 250px;
+	width: 400px;
+	margin: auto;
+}
+
+p {
+	text-align: center;
+	font-family: Garamond, serif;
+	font-size: 18px;
+}
+
+div {
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: #3D59AB;
+	font-family: Verdana, sans-serif;
+}
+
+span {
+	font-weight: bold;
+	font-size: 18px;
+	color: #ffffff;
+}  /*
+.red {
+	color: red;
+}
+
+#rogue {
+	color: #FF00FF;
+	font-weight: bold;
+	font-family: cursive;
+}
+*/
+body {
+    background-image: http://www.edu-via.com.ar/wp-content/uploads/2012/10/camino1.jpg("camino1.jpg");
+    background-color: #cccccc;
+}
+
+img {
+	display: block;
+	height: 250px;
+	width: 400px;
+	margin: auto;
+}
+
+p {
+	text-align: center;
+	font-family: Garamond, serif;
+	font-size: 18px;
+}
+
+div {
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: #3D59AB;
+	font-family: Verdana, sans-serif;
+}
+
+span {
+	font-weight: bold;
+	font-size: 18px;
+	color: #ffffff;
+}
